@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pallavi
+- 👋 Hi, I’m @Pallavi
 - 👀 I’m interested in Data science and ML
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ML projects in electrical engineering or any other field 
